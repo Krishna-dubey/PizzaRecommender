@@ -1,0 +1,22 @@
+ ! version = 2.0
+
++hi
+-Hi!, please enter ingredients to predict pizza
+
++hello
+-Hello!, please enter ingredients to predict pizza
+
++ i want pizza
+-Which pizza?
+
++ [*] (farmhouse|tandoori chicken|tanddori paneer|margherita) [*]
+- Okay, I will order for you. Thank you!!
+
++ [i want] pizza from ingredients
+- Yes, please enter ingredients to predict pizza
+
++ can you recommend pizza according to ingredients
+- Yes, please enter ingredients to predict pizza
+
++ *
+- Sorry, I didn't get that.
